@@ -239,7 +239,7 @@ padding-bottom: 2rem;
   }
 }
 .btn:hover{
-  background: #008ed6;
+  /* background: #008ed6; */
 color: #ffff;
 }
 
